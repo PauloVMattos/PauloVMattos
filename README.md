@@ -3,7 +3,7 @@
 
  ## Conecte-se comigo 💻
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/paulo-vinicius-d-84a761198?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZ%2BalfH3sTfO6pL5jyxQvig%3D%3D)
- [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/vsfmissdirtypaws/)
+ [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)]([https://www.instagram.com/vsfmissdirtypaws/](https://www.instagram.com/akii1ra/))
  [![GitHub](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github)](https://github.com/PauloVMattos)
 
 
